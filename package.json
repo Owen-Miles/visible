@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "create-react-app": "^5.0.1"
-  },
-  "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
-  }
-}
